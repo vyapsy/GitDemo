@@ -9,6 +9,7 @@ public class InfyTest {
 	public void Soumya()
 	{
 		System.out.println("Soumya");
+		System.out.println("manju");
 }
 
 	@Test

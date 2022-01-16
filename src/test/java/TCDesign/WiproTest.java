@@ -8,6 +8,7 @@ public class WiproTest {
 	public void HttpGet()
 	{
 		System.out.println("Android");
+		System.out.println("RX100");
 }
 
 	@Test

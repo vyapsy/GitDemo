@@ -10,6 +10,9 @@ public class InfyTest {
 	{
 		System.out.println("Soumya");
 		System.out.println("manju");
+		System.out.println("ma");
+		System.out.println("man");
+		System.out.println("manjunath");
 }
 
 	@Test
